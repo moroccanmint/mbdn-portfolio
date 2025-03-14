@@ -50,7 +50,7 @@ export const PROJECTS = [
     name: "ALARMA",
     description: "Flood Alert System and Alternative Route Finder",
     image: projects3,
-    link: "https://alarma.onrender.com",
+    link: "https://github.com/moroccanmint/alarma",
   },
 ];
 
